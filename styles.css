@@ -12,10 +12,20 @@
   margin-top: 20%;
 }
 
+.center-secondary-header {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 20%;
+}
+
 .fade-in-and-out {
   animation-name: fadeInAndOut;
   animation-duration: 5s;
   opacity: 0;
+}
+
+.second-animation {
+  animation-delay: 3s;
 }
 
 @keyframes fadeInAndOut {
