@@ -21,7 +21,14 @@
 
 .header-icon {
   width: auto;
-  height: 100%;
+  height: 130%;
+}
+
+.header--title {
+  display: inline;
+  font-size: 1.5em;
+  padding-left: 20px;
+  max-width: 10px;
 }
 
 .nav-item {
