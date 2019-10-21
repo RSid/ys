@@ -1,0 +1,20 @@
+.base-font {
+  font-family: 'Darker Grotesque', sans-serif;
+}
+
+.font--white {
+  color: white;
+}
+
+.margin--none {
+  margin: 0px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.pull-right {
+  float: right;
+}
